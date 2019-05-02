@@ -1,6 +1,6 @@
 # stylelint-config-styled-friendly
 
-This package includes shareable Stylelint config based on `stylelint-config-standard` and [idiomatic-css](https://github.com/necolas/idiomatic-css#declaration-order). For best results use a [browserslist file](https://github.com/browserslist/browserslist) to avoid rules not supported by the browsers you are targeting.
+This package includes shareable Stylelint config based on `stylelint-config-standard` and [idiomatic-css](https://github.com/necolas/idiomatic-css#declaration-order). For best results, use a [browserslist file](https://github.com/browserslist/browserslist) to avoid using CSS properties that are not supported by the browsers you are targeting.
 
 ### General guidelines:
 
