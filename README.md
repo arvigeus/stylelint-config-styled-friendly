@@ -27,7 +27,7 @@ Config:
 
 ### Known issues
 
-Fixing css files causes their content to disappear due to [stylelint-processor-styled-components#187](https://github.com/styled-components/stylelint-processor-styled-components/issues/187). For CSS only config:
+- Fixing css files causes their content to disappear due to [stylelint-processor-styled-components#187](https://github.com/styled-components/stylelint-processor-styled-components/issues/187). For CSS only config:
 
 ```
 // .stylelintrc.json
@@ -36,4 +36,4 @@ Fixing css files causes their content to disappear due to [stylelint-processor-s
 }
 ```
 
-Auto ordering properties is not working in css-in-js due to [stylelint-order#76](https://github.com/hudochenkov/stylelint-order/issues/76). Support is marked as _experimental_.
+- Auto ordering properties is not working in css-in-js due to [stylelint-order#76](https://github.com/hudochenkov/stylelint-order/issues/76). Support is marked as _experimental_.

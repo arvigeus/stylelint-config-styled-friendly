@@ -8,6 +8,11 @@
   },
   "license": "MIT",
   "main": "index.js",
+  "files": [
+    ".stylelintrc.js",
+    "css.js",
+    "index.js"
+  ],
   "peerDependencies": {
     "stylelint": "^9.x"
   },
