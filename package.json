@@ -7,6 +7,13 @@
     "url": "git+https://github.com/arvigeus/stylelint-config-styled-friendly.git"
   },
   "license": "MIT",
+  "keywords": [
+    "stylelint",
+    "css-in-js",
+    "styled-components",
+    "idiomatic",
+    "browserslist"
+  ],
   "main": "index.js",
   "files": [
     ".stylelintrc.js",
@@ -21,11 +28,11 @@
     "stylelint-a11y": "^1.x",
     "stylelint-config-idiomatic-order": "^7.x",
     "stylelint-config-prettier": "^5.x",
-    "stylelint-config-standard": "18.3.0",
-    "stylelint-config-styled-components": "0.1.1",
-    "stylelint-declaration-block-no-ignored-properties": "^2.1.0",
-    "stylelint-high-performance-animation": "^1.2.0",
-    "stylelint-no-unsupported-browser-features": "^3.0.2",
-    "stylelint-processor-styled-components": "1.6.0"
+    "stylelint-config-standard": "^18.3.0",
+    "stylelint-config-styled-components": "^0.x",
+    "stylelint-declaration-block-no-ignored-properties": "^2.x",
+    "stylelint-high-performance-animation": "^1.x",
+    "stylelint-no-unsupported-browser-features": "^3.x",
+    "stylelint-processor-styled-components": "^1.x"
   }
 }
