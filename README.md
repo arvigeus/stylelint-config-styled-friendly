@@ -25,6 +25,17 @@ Config:
 }
 ```
 
+### React Native
+
+Config:
+
+```
+// .stylelintrc.json
+{
+  extends: "stylelint-config-styled-friendly/native"
+}
+```
+
 ### Known issues
 
 - Fixing css files causes their content to disappear due to [stylelint-processor-styled-components#187](https://github.com/styled-components/stylelint-processor-styled-components/issues/187). For CSS only config:
