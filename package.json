@@ -18,7 +18,8 @@
   "files": [
     ".stylelintrc.js",
     "css.js",
-    "index.js"
+    "index.js",
+    "native.js"
   ],
   "peerDependencies": {
     "stylelint": "^9.x"
