@@ -22,10 +22,10 @@
     "native.js"
   ],
   "peerDependencies": {
-    "stylelint": "10.x"
+    "stylelint": "11.x"
   },
   "dependencies": {
-    "stylelint": "^10.0.1",
+    "stylelint": "^11.0.0",
     "stylelint-a11y": "^1.x",
     "stylelint-config-idiomatic-order": "^7.x",
     "stylelint-config-prettier": "^5.x",
