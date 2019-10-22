@@ -28,7 +28,7 @@
     "stylelint": "^11.0.0",
     "stylelint-a11y": "^1.x",
     "stylelint-config-idiomatic-order": "^7.x",
-    "stylelint-config-prettier": "^5.x",
+    "stylelint-config-prettier": "^6.x",
     "stylelint-config-standard": "^18.3.0",
     "stylelint-config-styled-components": "^0.x",
     "stylelint-declaration-block-no-ignored-properties": "^2.x",
