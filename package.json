@@ -33,7 +33,7 @@
     "stylelint-config-styled-components": "^0.x",
     "stylelint-declaration-block-no-ignored-properties": "^2.x",
     "stylelint-high-performance-animation": "^1.x",
-    "stylelint-no-unsupported-browser-features": "^3.x",
+    "stylelint-no-unsupported-browser-features": "^4.x",
     "stylelint-processor-styled-components": "^1.x",
     "stylelint-react-native": "^2.x"
   }
